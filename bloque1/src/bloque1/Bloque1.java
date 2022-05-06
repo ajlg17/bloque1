@@ -14,7 +14,7 @@ public class Bloque1 {
      * @param num2 numero entero
      * @return retorno el número asignado aleatoriamente entre los dos parámetros
      */
-    public int devuelveRandom(int num1, int num2){
+    public static int devuelveRandom(int num1, int num2){
         //declarro una variable que voy a devolver
         int devolucion=0;
         
